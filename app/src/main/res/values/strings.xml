@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProjectSwitch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="e_mail_ED">E-mail</string>
+    <string name="password_ED">Password</string>
+    <string name="login_TV">login</string>
+    <string name="remember_me_TV">Remember me</string>
+    <string name="create_account_TV">Create account</string>
+    <string name="login_First_Page">LOGIN</string>
+    <string name="sign_up_First_Page">SIGN UP</string>
+    <string name="register_TV">Personal information</string>
+    <string name="lets_get_you_on_board_TV">Lets get you on board</string>
+    <string name="e_mail_Register_Page">E-mail:</string>
+    <string name="password_Register_Page">Password:</string>
+    <string name="sign_in_register">Sign in</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="or_Option">or</string>
+    <string name="register_register_page">Register</string>
+    <string name="privacy_policy">By continuing, you agree to accept our
+        \n Privacy Policy and Terms of Service</string>
+</resources>

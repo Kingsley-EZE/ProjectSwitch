@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713033061889",
+    "firebase_url": "https://projectswitch-741b2.firebaseio.com",
+    "project_id": "projectswitch-741b2",
+    "storage_bucket": "projectswitch-741b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713033061889:android:0e268835bd22d72d935200",
+        "android_client_info": {
+          "package_name": "com.example.projectswitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713033061889-iar48o2m8e7nhitjcb1m574kg83e7aig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9waHi1dd3b88qukEYvsSYIta3P1rJ1C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713033061889-iar48o2m8e7nhitjcb1m574kg83e7aig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

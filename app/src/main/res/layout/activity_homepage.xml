@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1D2044"
+    tools:context=".Homepage">
+
+    <fragment
+        android:id="@+id/lightMode"
+        tools:layout="@layout/fragment_light"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="com.example.projectswitch.light"/>
+
+    <fragment
+        android:id="@+id/darkMode"
+        tools:layout="@layout/fragment_dark"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="com.example.projectswitch.dark"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
